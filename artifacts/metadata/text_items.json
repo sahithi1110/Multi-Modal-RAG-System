@@ -1,0 +1,18 @@
+[
+  {
+    "item_id": "text::architecture_notes.txt::1",
+    "item_type": "text",
+    "source_name": "architecture_notes.txt",
+    "page_number": null,
+    "text": "The system uses a hybrid search stack. Dense vectors are stored in a FAISS index. Sparse keyword matching is handled with BM25. Image retrieval uses CLIP embeddings. Query rewriting expands abbreviations and improves the search phrase before retrieval.",
+    "path": "C:\\Users\\WIN\\Downloads\\multimodal-rag-system\\multimodal-rag-system-latest\\data\\raw\\architecture_notes.txt"
+  },
+  {
+    "item_id": "text::product_manual.txt::1",
+    "item_type": "text",
+    "source_name": "product_manual.txt",
+    "page_number": null,
+    "text": "The inspection platform supports both text-based defect logs and image-based defect validation. Operators can upload visual evidence from the assembly line. The retrieval system combines semantic matching with keyword search for better recall. A re-ranking layer improves final ordering of evidence before answer generation. The production API target is below 200 milliseconds for common cached requests. Guardrails are used to reduce unsupported answers when evidence is weak.",
+    "path": "C:\\Users\\WIN\\Downloads\\multimodal-rag-system\\multimodal-rag-system-latest\\data\\raw\\product_manual.txt"
+  }
+]

@@ -1,0 +1,5 @@
+The system uses a hybrid search stack.
+Dense vectors are stored in a FAISS index.
+Sparse keyword matching is handled with BM25.
+Image retrieval uses CLIP embeddings.
+Query rewriting expands abbreviations and improves the search phrase before retrieval.

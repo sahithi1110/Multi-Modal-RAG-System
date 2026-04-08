@@ -1,0 +1,6 @@
+The inspection platform supports both text-based defect logs and image-based defect validation.
+Operators can upload visual evidence from the assembly line.
+The retrieval system combines semantic matching with keyword search for better recall.
+A re-ranking layer improves final ordering of evidence before answer generation.
+The production API target is below 200 milliseconds for common cached requests.
+Guardrails are used to reduce unsupported answers when evidence is weak.

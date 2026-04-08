@@ -1,0 +1,10 @@
+[
+  {
+    "question": "How does the system reduce hallucinations?",
+    "expected_topic": "guardrails and evidence grounding"
+  },
+  {
+    "question": "Does the system support image retrieval?",
+    "expected_topic": "multi-modal retrieval with CLIP"
+  }
+]

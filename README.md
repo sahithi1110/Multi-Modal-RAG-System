@@ -1,9 +1,3 @@
-Yes — your current README looks **compressed and unreadable**. I’ll give you a **clean, professional, GitHub-level README** that looks impressive.
-
-Just **replace your README.md completely with this** 👇
-
----
-
 # **Multi-Modal RAG System**
 
 A **production-style Multi-Modal Retrieval-Augmented Generation (RAG) system** that supports both **text and image understanding** using modern AI pipelines.
